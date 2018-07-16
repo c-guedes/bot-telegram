@@ -1,0 +1,1 @@
+{"message_id": 2196, "chat_id": -307954402, "user": 579917403, "local": "calculo", "conteudo": "testezao"}
